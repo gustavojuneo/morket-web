@@ -11,7 +11,7 @@ export const HomeContainer = styled.div`
 
 export const Main = styled.main`
   width: 100%;
-  height: calc(100vh - 40px - 116px);
+  height: calc(100vh - 40px - 100px);
   display: flex;
   align-items: center;
   justify-content: center;

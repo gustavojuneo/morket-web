@@ -12,7 +12,6 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     width: 100%;
-    overflow: hidden;
     font: 400 14px "Lato", sans-serif;
     background: #F0F0F5;
     -webkit-font-smoothing: antialiased;

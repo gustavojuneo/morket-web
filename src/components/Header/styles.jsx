@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.header`
-  width: 100%;
-  max-width: 992px;
-  margin: 36px 0;
+  width: 90%;
+  max-width: 1200px;
+  margin: 36px 0 16px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,6 +27,7 @@ export const Container = styled.header`
       justify-content: center;
       transition: .4s;
       border: none;
+      background-color: transparent;
 
       &:hover {
         color: #343434;
