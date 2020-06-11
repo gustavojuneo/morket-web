@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   input, button, textarea {
-    font: 400 18px Roboto, sans-serif;
+    font: 400 18px Lato, sans-serif;
   }
 
   button {
